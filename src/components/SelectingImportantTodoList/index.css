@@ -1,0 +1,13 @@
+.important-star {
+    color: rgba(255, 255, 0, 0.46); 
+    transition: color 0.2s ease; 
+    cursor: pointer;
+    padding-right: 10px;
+    font-size: 20px;
+}
+  
+.important-star.important {
+    color: yellow; 
+}
+
+
